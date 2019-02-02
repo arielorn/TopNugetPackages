@@ -1,0 +1,12 @@
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/bin/Debug/netcoreapp2.1/TopNugetPackages.deps.json
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/bin/Debug/netcoreapp2.1/TopNugetPackages.runtimeconfig.json
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/bin/Debug/netcoreapp2.1/TopNugetPackages.runtimeconfig.dev.json
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/bin/Debug/netcoreapp2.1/TopNugetPackages.dll
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/bin/Debug/netcoreapp2.1/TopNugetPackages.pdb
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/obj/Debug/netcoreapp2.1/TopNugetPackages.csprojAssemblyReference.cache
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/obj/Debug/netcoreapp2.1/TopNugetPackages.csproj.CoreCompileInputs.cache
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/obj/Debug/netcoreapp2.1/TopNugetPackages.AssemblyInfoInputs.cache
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/obj/Debug/netcoreapp2.1/TopNugetPackages.AssemblyInfo.cs
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/obj/Debug/netcoreapp2.1/TopNugetPackages.dll
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/obj/Debug/netcoreapp2.1/TopNugetPackages.pdb
+/Users/ariel/Projects/TopNugetPackages/TopNugetPackages/obj/Debug/netcoreapp2.1/TopNugetPackages.dll.config
