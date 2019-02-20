@@ -56,5 +56,6 @@
     <PackageReference Include="FluentValidation" Version="8.1.3" />
     <PackageReference Include="Serilog.Sinks.Console" Version="3.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Analyzers" Version="2.2.0" />
+    <PackageReference Include="FtpManager" Version="2.0.0" />
   </ItemGroup>
 </Project>
